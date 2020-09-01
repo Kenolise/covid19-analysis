@@ -1,1 +1,2 @@
-# covid-19_tracker_app
+# Covid- 19 Analysis Streamlit App
+![GitHub Logo](/pic.PNG)
