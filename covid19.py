@@ -98,6 +98,5 @@ else:
 
 st.sidebar.subheader(
     """Created By [Kenose](https://github.com/Kenolise) """)
-# st.sidebar.subheader(
-# """Inspired by [AIProbably](https://medium.com/@aiprobably)""")
+
 ##st.sidebar.image('logo.PNG', width=300)
